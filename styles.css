@@ -1,0 +1,27 @@
+header {
+    background-color: lightslategray;
+    display: flex;
+    justify-content: space-around;
+
+
+
+
+
+
+
+#contact {
+    background-color: lightblue;
+    border: none;
+    width: 50px;
+    font-size: 10px;
+
+
+.user-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+}
+.user-name {
+    font-size: 20px;
+}
