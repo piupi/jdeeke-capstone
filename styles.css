@@ -59,3 +59,22 @@ body {
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
 }
+
+input[type="submit"] {
+    background-color: #33ACFF;
+    border: none;
+    padding: 8px;
+    border-radius: 8px;
+    width: 100px;
+    color: white;
+    letter-spacing: 2px;
+}   
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin: 0 auto;
+    height: 600px;
+    justify-content: space-evenly;
+}
